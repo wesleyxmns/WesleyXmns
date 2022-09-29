@@ -13,7 +13,7 @@ Programming student, with the objective of professional growth and career progre
 - 🎮 TFT gamer, in spare time!
 - 👨🏽‍🦲 I'm bald, proud !
 - 🔖 Currently studying React!
-
+- 🎓 Studying Systems Analysis and Development at Unifanor Wyden !
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
