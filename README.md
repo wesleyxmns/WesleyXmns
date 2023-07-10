@@ -12,7 +12,7 @@ Trainee @sangatiberga
 Programming student, with the objective of professional growth and career progression ✅
 
 - 🎮 TFT gamer, in spare time!
-- 🔖 Currently studying React, Typescript, Tallwind and Node!
+- 🔖 Currently studying React, Typescript, TallwindCss and Node!
 - 🎓 Studying Systems Analysis and Development at Unifanor Wyden !
 
  "Anything I want the guy upstairs will give it to me."
