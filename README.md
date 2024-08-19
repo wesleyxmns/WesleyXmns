@@ -12,7 +12,7 @@ Systems Designer @sangatiberga
 Programming student, with the objective of professional growth and career progression ✅
 
 - 🎮 TFT gamer, in spare time!
-- 🔖 Currently studying NextJS, NESTJs, Typescript, TallwindCss and Node!
+- 🔖 Currently studying NextJS, NestJs, Typescript, TallwindCss and Node!
 - 🎓 Studying Systems Analysis and Development at Unifanor Wyden !
 
  "There is a hidden world inside me"
