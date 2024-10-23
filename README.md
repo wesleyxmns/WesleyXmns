@@ -2,7 +2,7 @@
 
 # Wesley Ximenes
 
-`Systems Designer @sangatiberga`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=1D87F7&center=true&vCenter=true&random=false&width=650&lines=Systems+Designer+%7C+Full+Stack+Developer;Building+the+future+with+TypeScript+and+Next.js;Clean+Architecture+%7C+SOLID+Principles)](https://git.io/typing-svg)
 
 </div>
 
@@ -40,14 +40,6 @@ const wesley = {
     <img width="330px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyxmns&layout=compact&hide_border=true&theme=tokyonight" />
   </div>
 </details>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=wesleyxmns&theme=tokyonight&hide_border=true&background=0d1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=wesleyxmns&theme=default&hide_border=true" />
-    <img alt="github streak" src="https://github-readme-streak-stats.herokuapp.com/?user=wesleyxmns&theme=tokyonight&hide_border=true&background=0d1117" width="400px" />
-  </picture>
-</div>
 
 <div style="filter: blur(0.8px); transition: filter 0.3s;">
   
